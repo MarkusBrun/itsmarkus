@@ -1,3 +1,3 @@
 class ApplicationJob < ActiveJob::Base
-  p 'asdsadasd'
+  p 'asdsada'
 end
